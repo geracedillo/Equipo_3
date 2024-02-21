@@ -17,10 +17,8 @@ imprimir_menu <- function(){
   cat("7. Salir\n")
 }
 
-# Función suma
-suma = function(){
-  x + y
-}
+#  Función suma A01275655
+suma= function(){x + y} 
 
 # Función Resta
 resta = function(){
