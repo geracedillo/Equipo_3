@@ -9,9 +9,10 @@
 
 
 
-#Resta 
-resta <- x -y
-resta
+# Función Resta
+resta = function(){
+  x - y
+}
 
 
 #Multiplicaci?n 
