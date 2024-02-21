@@ -24,6 +24,10 @@ suma= function(){x + y}
 resta = function(){
   x - y
 }
+
+#Función multiplicación 
+multiplicacion = function (){x * y}
+
 # Función potencia
 potencia = function(){
   z^2
