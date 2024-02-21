@@ -1,7 +1,29 @@
 #Equipo 3
-#Cecilia Rivas González A01284874
+#Cecilia Rivas Gonzï¿½lez A01284874
 #Gerardo Cedillo Corona A01704232
-#José Arturo Silva Flores A01198049 
-#Luis David Sánchez Castillo A01275655
-#Nayeli Peña Martínez A01368516
+#Josï¿½ Arturo Silva Flores A01198049 
+#Luis David Sï¿½nchez Castillo A01275655
+#Nayeli Peï¿½a Martï¿½nez A01368516
 
+
+# FunciÃ³n para imprimir menÃº de opciones
+imprimir_menu <- function(){
+  cat("Menu de opciones:\n")
+  cat("1. Suma\n")
+  cat("2. Resta\n")
+  cat("3. MultiplicaciÃ³n\n")
+  cat("4. DivisiÃ³n\n")
+  cat("5. DivisiÃ³n Entera\n")
+  cat("6. Potencia\n")
+  cat("7. Salir\n")
+}
+
+# FunciÃ³n suma
+suma = function(){
+  x + y
+}
+
+# FunciÃ³n potencia
+potencia = function(){
+  z^2
+}
