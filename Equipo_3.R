@@ -22,6 +22,10 @@ suma = function(){
   x + y
 }
 
+# Función Resta
+resta = function(){
+  x - y
+}
 # Función potencia
 potencia = function(){
   z^2
@@ -29,3 +33,4 @@ potencia = function(){
 
 #Division
 division = function(){x/y}  
+
